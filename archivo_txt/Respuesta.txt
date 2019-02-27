@@ -1,0 +1,3 @@
+La secuencia abc se repite: 35 veces
+La secuencia aabbaa se repite: 0 veces
+La secuencia aaabac se repite: 1 veces
